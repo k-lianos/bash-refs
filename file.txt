@@ -1,0 +1,2 @@
+This replaces everything in file
+This appends any given string
